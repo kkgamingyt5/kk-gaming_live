@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp AdminGuard - RBAC Messaging Platform",
+  "description": "WhatsApp-inspired enterprise messaging system with rigid Role-Based Access Control (Super Admin, Secondary Admin, General User), real-time chats, broadcast announcements, and owner protection safeguards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
